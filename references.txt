@@ -1,0 +1,5 @@
+PESTER
+http://adamfortuno.com/index.php/2020/04/28/mocking-net-objects-in-pester-scripts/
+https://www.red-gate.com/simple-talk/sysadmin/powershell/practical-powershell-unit-testing-mock-objects/
+https://mathieubuisson.github.io/storing-mock-objects-in-json/
+https://github.com/pester/Pester/issues/311
